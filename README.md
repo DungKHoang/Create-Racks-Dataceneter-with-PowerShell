@@ -1,4 +1,4 @@
-# Create-Racks-Datacenter-with-PowerShell
+# Create-Racks-Datacenter-with-OneView-PowerShell-library
 The sample script leverage OneView PowerShell librarty to generate racks configuration and data center in OneView.
 It reads an Excel file and collect ionofrmation to generate racks
 
